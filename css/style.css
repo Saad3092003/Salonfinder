@@ -344,23 +344,23 @@ nav{
 }
 #card1{
 	transition: 0.3s;
-	transform:matrix3d(1, 0.3, 0, 0, 10, 1, 0, -0.005, 0, 0, 1, 0, 0, 0, 0, 1);
+	transform:matrix3d(1, 0.3, 0, 0, 2, 4, 0, 0, 0, 0, 1, 0, 0, 0, 0, 3)
 }
 #card2{
 	transition: 0.5s;
-	transform:matrix3d(1, 0.3, 0, 0, 10, 1, 0, -0.005, 0, 0, 1, 0, 0, 0, 0, 1);
+	transform:matrix3d(1, 0.3, 0, 0, 2, 4, 0, 0, 0, 0, 1, 0, 0, 0, 0, 3)
 }
 #card4{
 	transition: 0.7s;
-	transform:matrix3d(1, 0.3, 0, 0, 10, 1, 0, -0.005, 0, 0, 1, 0, 0, 0, 0, 1);
+	transform:matrix3d(1, 0.3, 0, 0, 2, 4, 0, 0, 0, 0, 1, 0, 0, 0, 0, 3)
 }
 #card3{
 	transition: 1s;
-	transform:matrix3d(1, 0.3, 0, 0, 10, 1, 0, -0.005, 0, 0, 1, 0, 0, 0, 0, 1);
+	transform:matrix3d(1, 0.3, 0, 0, 2, 4, 0, 0, 0, 0, 1, 0, 0, 0, 0, 3)
 }
 #card5{
 	transition: 1s;
-	transform:matrix3d(1, 0.3, 0, 0, 10, 1, 0, -0.005, 0, 0, 1, 0, 0, 0, 0, 1);
+	transform:matrix3d(1, 0.3, 0, 0, 2, 4, 0, 0, 0, 0, 1, 0, 0, 0, 0, 3)
 }
 #my-faqsection{
 	opacity: 0;

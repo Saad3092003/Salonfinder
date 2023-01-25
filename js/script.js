@@ -177,14 +177,14 @@ function navcolor(){
     head.classList.remove('themecolor');
   }
 }
-  window.addEventListener('scroll', psfade);
-  window.addEventListener('scroll', msfade);
-  window.addEventListener('scroll', faqsfade);
-  window.addEventListener('scroll', fsfade);
-  window.addEventListener('scroll', navcolor);
+window.addEventListener('scroll', msfade);
+window.addEventListener('scroll', faqsfade);
+window.addEventListener('scroll', fsfade);
+window.addEventListener('scroll', navcolor);
+window.addEventListener('scroll', psfade);
 
 if(document.body.offsetWidth>=992)
-  {
+{
     window.addEventListener('scroll', img1_lg);
     window.addEventListener('scroll', img2_lg);
     window.addEventListener('scroll', mfade);
